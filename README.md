@@ -18,12 +18,12 @@ Numpy
 
 Clone the repository
 
-bashgit clone https://github.com/your-username/qa-analysis-dashboard.git
+bashgit clone https://github.com/codeocean5214/QA-Sentiment-Dashboard.git
 cd qa-analysis-dashboard
 
 Install dependencies
 
-bashpip install -r requirements.txt
+bash pip install -r requirements.txt
 
 Run the application
 
@@ -75,15 +75,7 @@ Data Export: Download filtered datasets as CSV
 Responsive Layout: Adapts to different screen sizes
 Hover Tooltips: Additional information on chart elements
 
-⚙️ Configuration
-The dashboard can be customized using the .streamlit/config.toml file:
-toml[theme]
-primaryColor = "#FF6B6B"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F0F2F6"
-textColor = "#262730"
 
-[server]
 maxUploadSize = 200
 🚀 Deployment
 Streamlit Community Cloud (Recommended)
