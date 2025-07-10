@@ -109,4 +109,4 @@ Railway: Direct GitHub integration
 txtstreamlit==1.28.0
 pandas==2.0.3
 plotly==5.15.0
-numpy==1.24.3# QA-Sentiment-Dashboard
+numpy==1.24.3
